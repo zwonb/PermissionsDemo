@@ -9,4 +9,6 @@ public interface PermissionCallBack {
 
     void acceptAll();
 
+    void dialogCancel();
+
 }
